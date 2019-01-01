@@ -24,7 +24,9 @@ github_username:  kazufumiw
 
 # Build settings
 markdown: kramdown
-theme: jekyll-swiss
+#theme: jekyll-swiss
+theme: nimima
+
 plugins:
   - jekyll-feed
 
