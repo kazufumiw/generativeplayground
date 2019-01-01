@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-## about this site
+## About this site
 
 This site contains my works of p5.js/Processing.
 
