@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Color Balls"
+title:  "Color Parette"
 categories: p5.js
 ---
 # Click to Play
-[![image](https://kazufumiw.github.io/generativeplayground/images/colorballs.png)](https://kazufumiw.github.io/generativeplayground/colorparette/)
+[![image](https://kazufumiw.github.io/generativeplayground/images/colorparette.png)](https://kazufumiw.github.io/generativeplayground/colorparette/)
 
 # code
 ```JavaScript
