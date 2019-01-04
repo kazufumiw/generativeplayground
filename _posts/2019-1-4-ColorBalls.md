@@ -3,12 +3,11 @@ layout: post
 title:  "Color Balls"
 categories: p5.js
 ---
-asd
 # Click to Play
 [![image](https://kazufumiw.github.io/generativeplayground/images/colorballs.png)](https://kazufumiw.github.io/generativeplayground/colorball/)
 
 # code
-{% highlight javascript %}
+```JavaScript
 var fr = 60.0;
 var n = 0;
 var s = 0.15;
@@ -51,4 +50,4 @@ function mouseClicked(){
 function windowResized() {
     resizeCanvas(windowWidth, windowHeight);
 }
-{% endhighlight %}
+```
