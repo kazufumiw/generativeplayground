@@ -7,7 +7,7 @@ categories: p5.js
 [![image](https://kazufumiw.github.io/generativeplayground/images/colorballs.png)](https://kazufumiw.github.io/generativeplayground/colorball/)
 
 # code
-```javascript
+{% highlight javascript %}
 var fr = 60.0;
 var n = 0;
 var s = 0.15;
@@ -50,4 +50,4 @@ function mouseClicked(){
 function windowResized() {
     resizeCanvas(windowWidth, windowHeight);
 }
-```
+{% endhighlight %}
