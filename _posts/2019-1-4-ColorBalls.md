@@ -7,7 +7,7 @@ categories: p5.js
 # [Click to Play](https://kazufumiw.github.io/generativeplayground/colorball/)
 
 # code
-```
+```javascript
 var fr = 60.0;
 var n = 0;
 var s = 0.15;
