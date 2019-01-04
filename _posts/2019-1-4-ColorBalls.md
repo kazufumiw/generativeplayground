@@ -8,6 +8,7 @@ categories: p5.js
 
 # code
 ```JavaScript
+
 var fr = 60.0;
 var n = 0;
 var s = 0.15;
