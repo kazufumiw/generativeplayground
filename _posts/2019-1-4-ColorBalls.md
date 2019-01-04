@@ -4,7 +4,7 @@ title:  "Color Balls"
 categories: p5.js
 ---
 # Click to Play
-[![image]({{site.baseurl}}/images/colorballs.png)](https://kazufumiw.github.io/generativeplayground/colorball/)
+[![image](https://kazufumiw.github.io/generativeplayground/images/colorballs.png)](https://kazufumiw.github.io/generativeplayground/colorball/)
 
 # code
 ```javascript
