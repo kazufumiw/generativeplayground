@@ -2,6 +2,7 @@
 layout: post
 title:  "Color Balls"
 categories: p5.js
+permalink: /works/colorballs
 ---
 # Click to Play
 [![image](https://kazufumiw.github.io/generativeplayground/images/colorballs.png)](https://kazufumiw.github.io/generativeplayground/colorball/)

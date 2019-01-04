@@ -2,6 +2,7 @@
 layout: post
 title:  "Color Parette"
 categories: p5.js
+permalink: /works/colorparette
 ---
 # Click to Play
 [![image](https://kazufumiw.github.io/generativeplayground/images/colorparette.png)](https://kazufumiw.github.io/generativeplayground/colorparette/)
