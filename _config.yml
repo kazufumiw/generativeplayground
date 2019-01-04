@@ -26,6 +26,7 @@ github_username:  kazufumiw
 markdown: kramdown
 theme: jekyll-swiss
 # theme: minima
+theme_color: red
 
 plugins:
   - jekyll-feed
