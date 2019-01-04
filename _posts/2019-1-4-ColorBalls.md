@@ -3,8 +3,8 @@ layout: post
 title:  "Color Balls"
 categories: p5.js
 ---
-
-# [Click to Play](https://kazufumiw.github.io/generativeplayground/colorball/)
+# Click to Play
+[![画像](../images/colorballs.png)](https://kazufumiw.github.io/generativeplayground/colorball/)
 
 # code
 ```javascript
