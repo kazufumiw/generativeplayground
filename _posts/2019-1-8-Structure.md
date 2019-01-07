@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Color Balls"
+title:  "Structure"
 categories: p5.js
 permalink: /works/structure
 ---
