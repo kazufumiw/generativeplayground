@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bayer Pattern"
+title:  "Bayer Pattern for non Retina"
 categories: p5.js
 permalink: /works/bayerpattern
 ---
