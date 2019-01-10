@@ -8,8 +8,8 @@ function setup() {
 	colorMode(HSB, 360, 100, 100);
 	background(0,0,100);
 	noStroke();
-	color_1 = [[360*Math.random(), 100*Math.random(), 100*Math.random()], [360*Math.random(), 100*Math.random(), 100*Math.random()], [360*Math.random(), 100*Math.random(), 100*Math.random()], [360*Math.random(), 100*Math.random(), 100*Math.random()], [360*Math.random(), 100*Math.random(), 100*Math.random()], [360*Math.random(), 100*Math.random(), 100*Math.random()]];
-	color_2 = [[360*Math.random(), 100*Math.random(), 100*Math.random()], [360*Math.random(), 100*Math.random(), 100*Math.random()], [360*Math.random(), 100*Math.random(), 100*Math.random()], [360*Math.random(), 100*Math.random(), 100*Math.random()], [360*Math.random(), 100*Math.random(), 100*Math.random()], [360*Math.random(), 100*Math.random(), 100*Math.random()]];
+	color_1 = [[360*Math.random(), 100, 100], [360*Math.random(), 100, 100], [360*Math.random(), 100, 100], [360*Math.random(), 100, 100], [360*Math.random(), 100, 100], [360*Math.random(), 100, 100]];
+	color_2 = [[360*Math.random(), 100, 100], [360*Math.random(), 100, 100], [360*Math.random(), 100, 100], [360*Math.random(), 100, 100], [360*Math.random(), 100, 100], [360*Math.random(), 100, 100]];
 }
 
 function draw() {
