@@ -2,7 +2,7 @@
 layout: post
 title:  "Bayer Pattern for non Retina"
 categories: p5.js
-permalink: /works/bayerpattern
+permalink: /works/bayerpattern_fornonretina
 ---
 # Click to Play
 [![image](https://kazufumiw.github.io/generativeplayground/images/bayerpattern.png)](https://kazufumiw.github.io/generativeplayground/bayerpattern_fornonretina/)
