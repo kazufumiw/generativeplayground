@@ -5,4 +5,4 @@ categories: p5.js
 permalink: /works/roughsketches
 ---
 # 1
-[![image](https://kazufumiw.github.io/generativeplayground/images/sketch_phasedcolor.png)](https://kazufumiw.github.io/generativeplayground/phsedcolor/)
+[![image](https://kazufumiw.github.io/generativeplayground/images/phasedcolor.png)](https://kazufumiw.github.io/generativeplayground/phasedcolor/)
