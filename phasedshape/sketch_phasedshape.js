@@ -57,13 +57,13 @@ function draw() {
 			}
 			*/
 			shapesize = tilesize;
-      ellipseMode(CORNER);
+      rectMode(CORNER);
 			fill(255, 0, 0);
-			ellipse(tilesize*i+transx+10+movex, tilesize*j+transy+10+movey, shapesize-10, shapesize-10);
+			rect(tilesize*i+transx+10+movex, tilesize*j+transy+10+movey, shapesize-10, shapesize-10);
 			fill(0, 255, 0);
-			ellipse(tilesize*i+transx+10, tilesize*j+transy+10, shapesize-10, shapesize-10);
+			rect(tilesize*i+transx+10, tilesize*j+transy+10, shapesize-10, shapesize-10);
 			fill(0, 0, 255);
-			ellipse(tilesize*i+transx+10-movex, tilesize*j+transy+10-movey, shapesize-10, shapesize-10);
+			rect(tilesize*i+transx+10-movex, tilesize*j+transy+10-movey, shapesize-10, shapesize-10);
     }
 	}
 }
